@@ -1,6 +1,6 @@
 # 📞 Call Center Dashboard - Excel Data Analysis  
 
-![Dashboard Screenshot 1](https://github.com/xxARYANx/pizza_sales_dashboard_powerBI_project/blob/main/capture_20250222193437650.bmp)
+![Dashboard Screenshot 1](https://github.com/xxARYANx/call_center_dashboard_excel_project/blob/main/capture_20250222111959240.bmp)
 
 
 ## 📌 Project Overview  
