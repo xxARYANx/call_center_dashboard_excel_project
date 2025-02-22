@@ -1,5 +1,8 @@
 # 📞 Call Center Dashboard - Excel Data Analysis  
 
+![Dashboard Screenshot 1](https://github.com/xxARYANx/pizza_sales_dashboard_powerBI_project/blob/main/capture_20250222193437650.bmp)
+
+
 ## 📌 Project Overview  
 This **Call Center Dashboard** is an **interactive Excel-based tool** designed to analyze **call data, representative performance, customer satisfaction, and purchase trends**. It helps **call center managers** track key metrics and make data-driven decisions.  
 
